@@ -1,0 +1,15 @@
+root@localhost:~/learngit# git remote add origin https://github.com/zhixingheyi666/friststep-learn-c-language.git
+root@localhost:~/learngit# git push -u origin master
+Username for 'https://github.com': zhixingheyi666
+Password for 'https://zhixingheyi666@github.com': 
+对象计数中: 32, 完成.
+Delta compression using up to 4 threads.
+压缩对象中: 100% (28/28), 完成.
+写入对象中: 100% (32/32), 2.94 KiB | 0 bytes/s, 完成.
+Total 32 (delta 10), reused 0 (delta 0)
+	To https://github.com/zhixingheyi666/friststep-learn-c-language.git
+	 * [new branch]      master -> master
+	 分支 master 设置为跟踪来自 origin 的远程分支 master。
+
+https://github.com/zhixingheyi666/friststep-learn-c-language
+
