@@ -1,3 +1,7 @@
+********************************************************
+git add -A: [<path>]表示把<path>中所有tracked文件中被修改过或已删除文件和所有untracted的文件信息添加到索引库。
+省略<path>表示.,即当前目录。
+*****************************************************
 root@localhost:~/learngit# git remote add origin https://github.com/zhixingheyi666/friststep-learn-c-language.git
 root@localhost:~/learngit# git push -u origin master
 Username for 'https://github.com': zhixingheyi666
