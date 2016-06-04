@@ -49,22 +49,11 @@ int main( void )
 		break;
 		case 4:
 			puts( "Input Range:\n");
-			unsigned long cnt, range;
-			scanf( "%lu", &range);
-			printf( "The Range is %lu\n", range );
+			int cnt, range;
+			scanf( "%d", &range);
+			printf( "The Range is %d\n", range );
 			cnt = b4_ertts( range );
-			printf( "The number of zhishu in %lu is %lu\n", range, cnt );
-		break;
-		case 6:
-			puts( "Input Range:\n");
-			unsigned long cnt1, range1, jiange1;
-			scanf( "%lu", &range1 );
-			puts( "Input jiange:\n" );
-			scanf( "%lu", &jiange1);
-			printf( "The Range is %lu\n", range1 );
-			printf( "The jiange is %lu\n", jiange1 );
-			cnt1 = b6_ertts( range1, jiange1 );
-			printf( "The number of zhishu in %lu is %lu\n", range1, cnt1 );
+			printf( "The number of zhishu in %d is %d\n", range, cnt );
 		break;
 		default :
 			puts( "错误的序号！！" );
