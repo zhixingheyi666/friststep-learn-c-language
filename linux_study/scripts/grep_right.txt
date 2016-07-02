@@ -1,0 +1,18 @@
+/etc/bash.bashrc:	function command_not_found_handle {
+/etc/btscanner.dtd: * list of services/inforations for a rangedef function
+/etc/flasm.ini:# show literal registers for function2 arguments
+/etc/flasm.ini:# delete function2 argument names from SWF in -u mode
+/etc/foremost.conf:# don't have built-in extraction functions.  If the format is built-in to foremost
+/etc/gssapi_mech.conf:# The initiaiization function "mechglue_internal_krb5_init"
+/etc/gssapi_mech.conf:# function name indicates that an internal function should
+/etc/gssapi_mech.conf:# library                               initialization function
+/etc/gssapi_mech.conf:# The MIT K5 gssapi library, use special function for initialization.
+/etc/gssapi_mech.conf:# The SPKM3 gssapi library function.  Use the function spkm3_gss_initialize.
+/etc/hdparm.conf:# -Z Disable the power-saving function of certain Seagate drives
+/etc/nanorc:# set functioncolor yellow
+/etc/nsswitch.conf:# Example configuration of GNU Name Service Switch functionality.
+/etc/rygel.conf:#                     g_get_real_name() function of glib library.
+/etc/rygel.conf:#                     g_get_user_name() function of glib library.
+/etc/rygel.conf:#                     returned by g_get_host_name() function of glib library.
+/etc/screenrc:#   Commands in this file are used to set options, bind screen functions to
+/etc/wgetrc:## functionality, and make it behave contrary to the documentation:

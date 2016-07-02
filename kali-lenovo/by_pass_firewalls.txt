@@ -1,0 +1,20 @@
+##今后的格式应为：分割线+Time+Tips+Reference
+Reference 关键词应该用双引号注明。eg. "example"
+********************************分割线****************************
+Time:2016.6.5
+Tips:
+1.solve GFW problems,first should find more useful "Search Engines".
+Reference:
+"百度搜索弱爆了，谷歌翻墙超烦，用什么搜索引擎比较好？"
+https://www.zhihu.com/question/27706859
+
+********************************分割线****************************
+Time:2016.6.5
+Tips:
+1.search in github use zhe keyworks "bypass firewalls".
+2.in github,search "shadowsocks"
+Reference:
+"托管在Github的知名代理项目Shadowsocks、GoAgent被删除;"
+		http://c.360webcache.com/c?m=0a61446239e2a2337ba5d82f40afa9fd&q=ShadowSocks&u=http%3A%2F%2Ftech.huanqiu.com%2Fnews%2F2015-09%2F7524320.html
+		单靠企业自身之力，已经很难承受如今DDOS攻击的密度和方式，甚至一些看似戒备森严的政府网站也难逃“网络黑帮”黑手。9月1日，英国国家反犯罪局网站就因DDOS攻击而短暂瘫痪;8月25日GitHub继3月份以来再次遭到DDOS攻击，托管在Github的知名代理项目Shadowsocks、GoAgent被删除;除了电子商务和在线游戏这两个重灾区之外，随着互联网与真实世界的联系日益紧密，金融服务、媒体、娱乐、旅游等网站也成为热门攻击目标。
+********************************分割线*******************************
